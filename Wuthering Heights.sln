@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wuthering Heights", "Wuthering Heights.csproj", "{D1092D65-7E51-5629-3A82-AE856B63C022}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wuthering Heights.Editor", "Wuthering Heights.Editor.csproj", "{D41F15EB-8173-E5C2-DE18-9F81516BC314}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1092D65-7E51-5629-3A82-AE856B63C022}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1092D65-7E51-5629-3A82-AE856B63C022}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1092D65-7E51-5629-3A82-AE856B63C022}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1092D65-7E51-5629-3A82-AE856B63C022}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D41F15EB-8173-E5C2-DE18-9F81516BC314}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D41F15EB-8173-E5C2-DE18-9F81516BC314}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D41F15EB-8173-E5C2-DE18-9F81516BC314}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D41F15EB-8173-E5C2-DE18-9F81516BC314}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
